@@ -12,6 +12,38 @@ Crea una clase `Persona` con los siguientes atributos:
 
 Incluye un constructor que tome como parámetros el nombre, edad y género para inicializar los atributos. Además, implementa métodos públicos para obtener y establecer estos atributos de manera segura.
 
+```java
+public class Persona {
+	private String nombre;
+	private int edad;
+	private String genero;
+	public Persona(String nombre, int edad, String genero){
+		this.nombre = nombre;
+		this.edad = edad;
+		this.genero = genero;
+	}
+
+	public String getNombre(){
+		return nombre;
+	}
+	public int getEdad(){
+		return edad;
+	}
+	public String getGenero(){
+		return genero;
+	}
+
+	public void setNombre(String nombre){
+		this.nombre = nombre;
+	}
+	public void setEdad(int edad){
+		this.edad = edad;
+	}
+	public void setGenero(String genero){
+		this.genero = genero;
+	}
+} 
+```
 ### Ejercicio 2: Creación de una Clase "Círculo"
 
 Crea una clase `Circulo` que represente un círculo en un plano. Los atributos de la clase serán:
@@ -20,6 +52,8 @@ Crea una clase `Circulo` que represente un círculo en un plano. Los atributos d
 - `color` (String)
 
 Incluye un constructor que tome como parámetros el radio y el color del círculo. Implementa métodos públicos para obtener y establecer estos atributos de manera segura. Además, incluye un método para calcular el área del círculo.
+
+
 
 ### Ejercicio 3: Creación de una Clase "Cuenta Bancaria"
 
