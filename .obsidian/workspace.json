@@ -1,0 +1,331 @@
+{
+  "main": {
+    "id": "6bd90b1a6e078c2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9779b5f3184469b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ab46484daaf208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Un constructor se puede crear sin modificador de acceso..(pregunta).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74eb99e865c6201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Que es un estado de objeto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c39614883a83610e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "459b6ae6829139d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constructores y encapsulamiento en java..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "602ba7f415919728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "662402b5667c52aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fb8df2b63791737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Void.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be2671e438bdc211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Que pasa si no me olvido el voild.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "9e87590ea4b300d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eef2ddc0b475bb5a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5e75cdfb5de4262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BLOCK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd732a4d75051b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cual es la sintaxis de los metodos get y set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35a6d3493e84a9f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cual es la sintaxis de los metodos get y set.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bf1a8db03dffaf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Falta del tipo de retorno en métodos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a27d61672df4b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cual es la sintaxis de los metodos get y set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acd6442641355858",
+    "type": "split",
+    "children": [
+      {
+        "id": "9385cc456a5f2f9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efbbdb1bf1d856ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f49afba5f00c614",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c0c75ff311a5295",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd0e6d030aec9978",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3ef452cd519e172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b5af3f7b76f09b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "274045c739ca0111",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2948c07c79f6c095",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e3b0a08451b83ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "602ba7f415919728",
+  "lastOpenFiles": [
+    "Un constructor se puede crear sin modificador de acceso..(pregunta).md",
+    "Cual es la sintaxis de los metodos get y set.md",
+    "Ejercicios básicos de constructores y encapsulamiento.md",
+    "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
+    "Constructores y encapsulamiento en java..md",
+    "Pasted image 20240324100647.png",
+    "Que pasa si no me olvido el voild.md",
+    "Void.md",
+    "Que pasa si una clase no cuenta con un constructor.md",
+    "Que es un estado de objeto.md",
+    "Que son las clases y objetos en java.md",
+    "Que.md",
+    "Java/Que.md",
+    "Java",
+    "Que_es_un_estado_de_objeto.md",
+    "Untitled.md",
+    "Pasted image 20240324084547.png",
+    "Para que sirve un constructor.md",
+    "cual es la sintaxis para declarar una clase en java..md",
+    "BLOCK.md",
+    "Falta del tipo de retorno en métodos.md",
+    "Tipos de acceso en java.md",
+    "Firma de método.md"
+  ]
+}
