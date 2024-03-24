@@ -64,43 +64,19 @@
             }
           },
           {
-            "id": "662402b5667c52aa",
+            "id": "38205376c62bdff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fb8df2b63791737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Void.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be2671e438bdc211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Que pasa si no me olvido el voild.md",
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "9e87590ea4b300d1",
@@ -113,69 +89,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "b5e75cdfb5de4262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLOCK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd732a4d75051b76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cual es la sintaxis de los metodos get y set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35a6d3493e84a9f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cual es la sintaxis de los metodos get y set.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bf1a8db03dffaf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Falta del tipo de retorno en métodos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a27d61672df4b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cual es la sintaxis de los metodos get y set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,28 +217,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "602ba7f415919728",
+  "active": "38205376c62bdff3",
   "lastOpenFiles": [
+    "EJERCICIOS Y PROYECTOS/Lab2/bin/vista/vista.class",
+    "EJERCICIOS Y PROYECTOS/Lab2/src/vista/vista.java",
+    "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/Persona.class",
+    "EJERCICIOS Y PROYECTOS/Lab2/src/datos/Persona.java",
+    "EJERCICIOS Y PROYECTOS/Lab2/bin/vista",
+    "EJERCICIOS Y PROYECTOS/Lab2/bin/datos",
+    "EJERCICIOS Y PROYECTOS/Lab2/src/vista",
+    "EJERCICIOS Y PROYECTOS/Lab2/src/datos",
+    "EJERCICIOS Y PROYECTOS/Lab2/src",
+    "EJERCICIOS Y PROYECTOS/Lab2/bin",
+    "EJERCICIOS Y PROYECTOS/Lab2",
+    "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
+    "Void.md",
+    "Que pasa si no me olvido el voild.md",
+    "Ejercicios básicos de constructores y encapsulamiento.md",
+    "BLOCK.md",
     "Un constructor se puede crear sin modificador de acceso..(pregunta).md",
     "Cual es la sintaxis de los metodos get y set.md",
-    "Ejercicios básicos de constructores y encapsulamiento.md",
-    "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
     "Constructores y encapsulamiento en java..md",
     "Pasted image 20240324100647.png",
-    "Que pasa si no me olvido el voild.md",
-    "Void.md",
     "Que pasa si una clase no cuenta con un constructor.md",
     "Que es un estado de objeto.md",
     "Que son las clases y objetos en java.md",
     "Que.md",
     "Java/Que.md",
-    "Java",
     "Que_es_un_estado_de_objeto.md",
     "Untitled.md",
     "Pasted image 20240324084547.png",
     "Para que sirve un constructor.md",
     "cual es la sintaxis para declarar una clase en java..md",
-    "BLOCK.md",
     "Falta del tipo de retorno en métodos.md",
     "Tipos de acceso en java.md",
     "Firma de método.md"
