@@ -57,7 +57,11 @@ public class Persona {
 
 El encapsulamiento en Java se logra definiendo los atributos de una clase como privados y proporcionando métodos públicos (también conocidos como "getters" y "setters") para acceder y modificar esos atributos. Esto se hace para controlar el acceso y evitar que se modifiquen los datos de manera inapropiada. Aquí hay un ejemplo:
 
-![[Pasted image 20240324100647.png]]
+
+
+![[Pasted image 20240324100647.png |300x200]]
+
+![[Pasted image 20240324215825.png |300x250]]
 
 ```java
 public class Persona {
