@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concatenaciones.md",
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,19 +88,19 @@
             }
           },
           {
-            "id": "14c03150cc06be5d",
+            "id": "1958c71bb2be65ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constructores y encapsulamiento en java..md",
+                "file": "Que es Static y para que sirve.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "9e87590ea4b300d1",
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funciones.md",
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funciones.md",
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funciones.md"
+                "file": "Ejercicios básicos de constructores y encapsulamiento.md"
               }
             }
           }
@@ -241,24 +241,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "636da41847cc686d",
+  "active": "9dca7f00a58d8277",
   "lastOpenFiles": [
+    "EJERCICIOS Y PROYECTOS/Lab2/bin/vista/Ejercicio03.class",
+    "EJERCICIOS Y PROYECTOS/Lab2/src/vista/Ejercicio03.java",
+    "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/CuentaBancaria.class",
+    "EJERCICIOS Y PROYECTOS/Lab2/src/datos/CuentaBancaria.java",
+    "EJERCICIOS Y PROYECTOS/Lab2/src/datos/cuentaBancaria.java",
     "Concatenaciones.md",
     "Funciones.md",
+    "Que es Static y para que sirve.md",
+    "Constructores y encapsulamiento en java..md",
     "Tipos de acceso en java.md",
     "EJERCICIOS Y PROYECTOS/Lab2/bin/vista/Ejercicio02.class",
     "EJERCICIOS Y PROYECTOS/Lab2/src/vista/Ejercicio02.java",
     "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/Ejercicio02.class",
     "EJERCICIOS Y PROYECTOS/Lab2/src/datos/Ejercicio02.java",
-    "Constructores y encapsulamiento en java..md",
     "Pasted image 20240324215825.png",
     "Ejercicios básicos de constructores y encapsulamiento.md",
     "EJERCICIOS Y PROYECTOS/Lab2/bin/vista/Ejercicio01.class",
     "EJERCICIOS Y PROYECTOS/Lab2/src/vista/Ejercicio01.java",
-    "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/Circulo.class",
-    "EJERCICIOS Y PROYECTOS/Lab2/src/datos/Circulo.java",
-    "EJERCICIOS Y PROYECTOS/Lab2/bin/vista/vista.class",
-    "EJERCICIOS Y PROYECTOS/Lab2/src/vista/vista.java",
     "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
     "Void.md",
     "Que pasa si no me olvido el voild.md",

@@ -17,5 +17,4 @@ public class Ejercicio02 {
 		String concatenado = String.format("El area del circulo %s es: ", nombre);
 		return concatenado;
 	}
-
 }

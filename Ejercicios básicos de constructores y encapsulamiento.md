@@ -93,6 +93,36 @@ Crea una clase `CuentaBancaria` que represente una cuenta bancaria simple. Los a
 
 Incluye un constructor que tome como parámetros el número de cuenta y el titular. Implementa métodos públicos para obtener el saldo y el titular de la cuenta. Además, incluye métodos para depositar y retirar dinero de la cuenta de manera segura.
 
+```java
+public class CuentaBancaria{
+	private int numeroCuenta;
+	private double saldo;
+	private String titular;
+	public CuentaBancaria(int numeroCuenta, String titular){
+		this.numeroCuenta = numeroCuenta;
+		this.titular = titular;
+	} 
+	public String getTitular(){
+		return titular;
+	}
+	public double getSaldo(){
+		return saldo;
+	}
+	public void setTitular(String titular){
+		this.titular = titular;
+	}
+	public void setSaldo(double saldo){
+		this.saldo = saldo;
+	}
+	public void depositar(double deposito){
+		saldo = saldo + deposito;
+	}
+	public void retirar(double aRetirar){
+		saldo = saldo - aRetirar;
+	}
+}
+```
+
 ### Ejercicio 4: Creación de una Clase "Libro"
 
 Crea una clase `Libro` que represente un libro en una biblioteca. Los atributos de la clase serán:
