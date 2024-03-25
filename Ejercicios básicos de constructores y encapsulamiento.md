@@ -13,6 +13,7 @@ Crea una clase `Persona` con los siguientes atributos:
 Incluye un constructor que tome como parámetros el nombre, edad y género para inicializar los atributos. Además, implementa métodos públicos para obtener y establecer estos atributos de manera segura.
 
 ```java
+package datos;
 public class Persona {
 	private String nombre;
 	private int edad;
@@ -53,8 +54,35 @@ Crea una clase `Circulo` que represente un círculo en un plano. Los atributos d
 
 Incluye un constructor que tome como parámetros el radio y el color del círculo. Implementa métodos públicos para obtener y establecer estos atributos de manera segura. Además, incluye un método para calcular el área del círculo.
 
-
-
+```java
+package datos;
+public class Circulo {
+	private double radio;
+	private String color;
+	private double area;
+	
+	public Circulo(double radio, String color){
+		this.radio = radio;
+		this.color = color;
+	}
+	public double getRadio(){
+		return radio;	
+	}
+	public String getColor(){
+		return color;
+	}
+	public void setRadio(double radio){
+		this.radio = radio;
+	}
+	public void setColor(String color){
+		this.color = color;
+	}
+	public double areaCirculo(){
+		area = 3.1415 * radio * radio;
+		return area;
+	}
+}
+```
 ### Ejercicio 3: Creación de una Clase "Cuenta Bancaria"
 
 Crea una clase `CuentaBancaria` que represente una cuenta bancaria simple. Los atributos de la clase serán:

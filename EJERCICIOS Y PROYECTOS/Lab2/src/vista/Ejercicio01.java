@@ -1,7 +1,7 @@
 package vista;
 import datos.Persona;
 
-public class vista {
+public class Ejercicio01 {
 
 	public static void main(String[] args) {
 		Persona Brandon = new Persona("Brandon", 17, "Masculino");
