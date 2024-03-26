@@ -123,6 +123,7 @@ public class CuentaBancaria{
 }
 ```
 
+[Mejoras](obsidian://open?vault=Java&file=Mejoras%20de%20seguridad%20ejercicio%203%20cuenta%20bancaria)
 ### Ejercicio 4: Creación de una Clase "Libro"
 
 Crea una clase `Libro` que represente un libro en una biblioteca. Los atributos de la clase serán:
@@ -134,6 +135,52 @@ Crea una clase `Libro` que represente un libro en una biblioteca. Los atributos 
 
 Incluye un constructor que tome como parámetros el título, autor y año de publicación del libro. Implementa métodos públicos para obtener y establecer estos atributos de manera segura. Además, incluye un método para marcar el libro como prestado y otro para devolverlo.
 
+```java
+public class Libro {
+	private String titulo;
+	private String autor;
+	private int añoPublicacion;
+	private boolean prestado;
+	public Libro(String titulo, String autor, int añoPublicacion){
+		this.titulo = titulo;
+		this.autor = autor;
+		this.añoPublicacion = añoPublicacion;
+		this.prestado = false;
+	}
+	public String getTitulo(){
+		return titulo;
+	}
+	
+	public String getAutor(){
+		return autor;
+	}
+	public int getAñoPublicacion(){
+		return añoPublicacion;
+	}
+	public boolean getPrestamo(){
+		return prestado;
+	}
+
+	public void setTitulo(String titulo){
+		this.titulo = titulo;
+	}
+	public void setAutor(String autor){
+		this.autor = autor;
+	}
+	public void setAñoPublicación(int añoPublicacion){
+		this.añoPublicacion = añoPublicacion;
+	}
+	public void setPrestamo(boolean prestado){
+		this.prestado = prestado;
+	}
+	public void prestar(){
+		this.prestado = true;
+	}
+	public void debolver(){
+		this.prestado = false;
+	}
+} 
+```
 ### Ejercicio 5: Creación de una Clase "Empleado"
 
 Crea una clase `Empleado` que represente a un empleado de una empresa. Los atributos de la clase serán:
@@ -144,4 +191,42 @@ Crea una clase `Empleado` que represente a un empleado de una empresa. Los atrib
 
 Incluye un constructor que tome como parámetros el nombre, edad y sueldo del empleado. Implementa métodos públicos para obtener y establecer estos atributos de manera segura. Además, incluye un método para aumentar el sueldo del empleado en un porcentaje dado.
 
+```java
+package datos;
+public class Empleado {
+	private String nombre;
+	private int edad;
+	private double sueldo;
+
+	public Empleado (String nombre, int edad , double sueldo){
+		this.nombre = nombre;
+		this.edad = edad;
+		this.sueldo = sueldo;
+	}
+	public String getNombre (){
+		return nombre;
+	}
+	public int getEdad (){
+		return edad;
+	}
+	public double getSueldo (){
+		return sueldo;
+	}
+	
+	public void setNombre (String nombre){
+		this.nombre = nombre;
+	}
+	public void setEdad (int edad){
+		this.edad = edad;
+	}
+	public void setSueldo (double sueldo){
+		this.sueldo = sueldo;
+	}
+	public void sumaPorcentual(double porcentaje){
+		sueldo = ((100 + porcentaje) / 100) * sueldo;
+	}
+}
+```
+
 Estos ejercicios te darán una buena práctica en la creación de clases con constructores y el uso del encapsulamiento para garantizar un acceso seguro a los atributos de la clase. ¡Espero que te sean de ayuda! Recuerda que la práctica constante es clave para familiarizarse con estos conceptos en Java.
+
