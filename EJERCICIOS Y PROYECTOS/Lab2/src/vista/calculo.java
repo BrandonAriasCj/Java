@@ -30,7 +30,7 @@ public class calculo {
 		System.out.println(p.getCantidad());
 		System.out.println(p.getPrecioUnitario());
 
-		System.out.println("el precio total es de ");
+		System.out.println("el precio total es de " + p.precioT());
 		imp= p.Igv();
 		System.out.println("el IGV sobre el precio total es de " + imp);
 		

@@ -41,9 +41,5 @@ public class producto {
 			
 		
 	}
-	public void setPrecioT() {
-		
-	}
-	
 
 }
