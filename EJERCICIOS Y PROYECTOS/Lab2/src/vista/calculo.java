@@ -7,7 +7,7 @@ public class calculo {
 		
 		int cod,cant;
 		String dsp;
-		double pU, Ig,PP,Ct;
+		double pU, Ig,PP;
 		
 		producto p = new producto();
 		Scanner s = new Scanner(System.in);
@@ -17,7 +17,7 @@ public class calculo {
 		dsp = s.next();
 		System.out.println("Ingrese la cantidad");
 		cant = s.nextInt();
-		System.out.println("Ingrese su precio");
+		System.out.println("Ingrese su precio unitario");
 		pU= s.nextDouble();
 		
 		
@@ -34,9 +34,9 @@ public class calculo {
 		PP = p.precioT();
 		Ig = p.Igv();
 		System.out.println("//////////////////////////////////////////////////////////////////////");
-		System.out.println("el precio total es de "+PP);
-		System.out.println("el IGV sobre el precio total es de " + Ig);
-		System.out.println("el IGV sobre el precio total es de " + (PP +Ig));
+		System.out.println("El precio total es de "+PP);
+		System.out.println("El IGV sobre el precio total es de " + Ig);
+		System.out.println("El total a pargar es de:  " + (PP +Ig));
 		System.out.println("//////////////////////////////////////////////////////////////////////");
 		
 		

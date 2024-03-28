@@ -31,12 +31,12 @@ public class producto {
 	}
 	
 	public double precioT(){
-		double T= cantidad*precioUnitario;
+		double T= cantidad * precioUnitario;
 		return T;
 	}
 		
 	public double Igv(){ 
-		double imp= (cantidad * precioUnitario)*0.18;
+		double imp= (cantidad * precioUnitario) * 0.18;
 		return imp;
 			
 		
