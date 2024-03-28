@@ -7,7 +7,7 @@ public class calculo {
 		
 		int cod,cant;
 		String dsp;
-		double pU, imp;
+		double pU, Ig,PP,Ct;
 		
 		producto p = new producto();
 		Scanner s = new Scanner(System.in);
@@ -20,6 +20,7 @@ public class calculo {
 		System.out.println("Ingrese su precio");
 		pU= s.nextDouble();
 		
+		
 		p.setCodigo(cod);
 		p.setDescripcion(dsp);
 		p.setCantidad(cant);
@@ -29,10 +30,15 @@ public class calculo {
 		System.out.println(p.getDescripcion());
 		System.out.println(p.getCantidad());
 		System.out.println(p.getPrecioUnitario());
-
-		System.out.println("el precio total es de " + p.precioT());
-		imp= p.Igv();
-		System.out.println("el IGV sobre el precio total es de " + imp);
+		
+		PP = p.precioT();
+		Ig = p.Igv();
+		System.out.println("//////////////////////////////////////////////////////////////////////");
+		System.out.println("el precio total es de "+PP);
+		System.out.println("el IGV sobre el precio total es de " + Ig);
+		System.out.println("el IGV sobre el precio total es de " + (PP +Ig));
+		System.out.println("//////////////////////////////////////////////////////////////////////");
+		
 		
 	}
 
