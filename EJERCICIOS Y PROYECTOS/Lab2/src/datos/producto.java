@@ -1,5 +1,4 @@
 package datos;
-
 public class producto {
 	private int codigo;
 	private String descripcion;
@@ -38,8 +37,6 @@ public class producto {
 	public double Igv(){ 
 		double imp= (cantidad * precioUnitario) * 0.18;
 		return imp;
-			
-		
 	}
 
 }

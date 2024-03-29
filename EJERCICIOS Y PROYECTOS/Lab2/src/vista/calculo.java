@@ -25,11 +25,7 @@ public class calculo {
 		p.setDescripcion(dsp);
 		p.setCantidad(cant);
 		p.setPrecioUnitario(pU);
-		
-		System.out.println(p.getCodigo());
-		System.out.println(p.getDescripcion());
-		System.out.println(p.getCantidad());
-		System.out.println(p.getPrecioUnitario());
+
 		
 		PP = p.precioT();
 		Ig = p.Igv();
