@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "65f1e48e4f42da01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOptionPanel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5c2e1b9ee9b4f0d7",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9e87590ea4b300d1",
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
+                "file": "JOptionPanel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
+                "file": "JOptionPanel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios básicos de constructores y encapsulamiento.md"
+                "file": "JOptionPanel.md"
               }
             }
           }
@@ -253,8 +265,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dca7f00a58d8277",
+  "active": "65f1e48e4f42da01",
   "lastOpenFiles": [
+    "Ejercicios básicos de constructores y encapsulamiento.md",
+    "JOptionPanel.md",
     "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/Empleado.class",
     "EJERCICIOS Y PROYECTOS/Lab2/bin/vista/Ejercicio05.class",
     "EJERCICIOS Y PROYECTOS/Lab2/src/vista/Ejercicio05.java",
@@ -265,9 +279,7 @@
     "EJERCICIOS Y PROYECTOS/Lab2/src/datos/producto.java",
     "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/producto",
     "EJERCICIOS Y PROYECTOS/Lab2/src/datos/producto",
-    "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/Libro.class",
     "Mejoras de seguridad ejercicio 3 cuenta bancaria.md",
-    "Ejercicios básicos de constructores y encapsulamiento.md",
     "Mejoras.md",
     "Concatenaciones.md",
     "Funciones.md",
