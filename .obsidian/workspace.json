@@ -88,6 +88,18 @@
             }
           },
           {
+            "id": "be63e003156dfa12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JFrame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5c2e1b9ee9b4f0d7",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "9e87590ea4b300d1",
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOptionPanel.md",
+                "file": "JFrame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOptionPanel.md",
+                "file": "JFrame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOptionPanel.md"
+                "file": "JFrame.md"
               }
             }
           }
@@ -265,20 +277,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65f1e48e4f42da01",
+  "active": "be63e003156dfa12",
   "lastOpenFiles": [
-    "Ejercicios básicos de constructores y encapsulamiento.md",
     "JOptionPanel.md",
-    "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/Empleado.class",
-    "EJERCICIOS Y PROYECTOS/Lab2/bin/vista/Ejercicio05.class",
-    "EJERCICIOS Y PROYECTOS/Lab2/src/vista/Ejercicio05.java",
-    "EJERCICIOS Y PROYECTOS/Lab2/src/datos/Empleado.java",
-    "EJERCICIOS Y PROYECTOS/Lab2/bin/vista/calculo.class",
-    "EJERCICIOS Y PROYECTOS/Lab2/src/vista/calculo.java",
-    "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/producto.class",
-    "EJERCICIOS Y PROYECTOS/Lab2/src/datos/producto.java",
-    "EJERCICIOS Y PROYECTOS/Lab2/bin/datos/producto",
-    "EJERCICIOS Y PROYECTOS/Lab2/src/datos/producto",
+    "JFrame.md",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/bin/proceso/operaciones.class",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/src/proceso/operaciones.java",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/bin/modelo/panel.class",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/bin/modelo/panel$1.class",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/src/modelo/panel.java",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/bin/modelo/cuenta.class",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/src/modelo/cuenta.java",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/bin/proceso",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/src/proceso",
+    "EJERCICIOS Y PROYECTOS/SEMANA07/bin/modelo",
+    "Ejercicios básicos de constructores y encapsulamiento.md",
     "Mejoras de seguridad ejercicio 3 cuenta bancaria.md",
     "Mejoras.md",
     "Concatenaciones.md",
@@ -304,7 +317,6 @@
     "Pasted image 20240324084547.png",
     "Para que sirve un constructor.md",
     "cual es la sintaxis para declarar una clase en java..md",
-    "Falta del tipo de retorno en métodos.md",
-    "Firma de método.md"
+    "Falta del tipo de retorno en métodos.md"
   ]
 }
