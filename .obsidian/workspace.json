@@ -158,9 +158,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fdd9dc8af7970fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COLLECTION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       },
       {
         "id": "9e87590ea4b300d1",
@@ -216,7 +228,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jframe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diferencias entre clase abstracta e interface.md",
+                "file": "BLOCK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diferencias entre clase abstracta e interface.md",
+                "file": "BLOCK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diferencias entre clase abstracta e interface.md"
+                "file": "BLOCK.md"
               }
             }
           }
@@ -314,8 +326,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10130a2e03284415",
+  "active": "3fd8a77ba1ca2df4",
   "lastOpenFiles": [
+    "COLLECTION.md",
     "BLOCK.md",
     "Diferencias entre clase abstracta e interface.md",
     "Implementación de una clase abstracta en java.md",
@@ -353,7 +366,6 @@
     "Java/Que.md",
     "Que_es_un_estado_de_objeto.md",
     "Untitled.md",
-    "Pasted image 20240324084547.png",
-    "Para que sirve un constructor.md"
+    "Pasted image 20240324084547.png"
   ]
 }

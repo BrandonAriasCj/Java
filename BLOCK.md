@@ -19,3 +19,12 @@ class Circulo extends Figura {
 	}
 }
 ```
+
+```JAVA
+import java.util.Collection;
+import java.util.ArrayList;
+
+pubblic class Main {
+	public static void main()
+}
+```
