@@ -28,3 +28,17 @@ pubblic class Main {
 	public static void main()
 }
 ```
+
+```JAVA
+import java.util.Collection;
+import java.util.ArrayList;
+
+public class Main {
+	public static void main(String[] args){
+		Collection<String> lista = new ArrayList<>();
+		lista.add("Hola");
+		lista.add("Mundo");
+		System.out.println(lista);
+	}
+}
+```
