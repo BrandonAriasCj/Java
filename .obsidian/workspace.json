@@ -165,53 +165,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLLECTION.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 13
-      },
-      {
-        "id": "9e87590ea4b300d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eef2ddc0b475bb5a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3fd8a77ba1ca2df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BLOCK.md",
+                "file": "JOptionPanel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ebec67edf0bb23c",
+            "id": "56ae6e7c4437d3e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Que es Static y para que sirve.md",
+                "file": "Operador Diamante.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "151a6e20f5def75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "listas mutables vs listas inmutables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -257,8 +242,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -278,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BLOCK.md",
+                "file": "listas mutables vs listas inmutables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BLOCK.md",
+                "file": "listas mutables vs listas inmutables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BLOCK.md"
+                "file": "listas mutables vs listas inmutables.md"
               }
             }
           }
@@ -339,46 +323,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fd8a77ba1ca2df4",
+  "active": "151a6e20f5def75c",
   "lastOpenFiles": [
-    "EJERCICIOS Y PROYECTOS/SEMANA09/bin/vista/Ejemplo2.class",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/src/vista/Ejemplo2.java",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/bin/datos/Fibonacci.class",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/src/datos/Fibonacci.java",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/bin/vista/Ejemplo1.class",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/src/vista/Ejemplo1.java",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/bin/datos/Arreglos.class",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/src/datos/Arreglos.java",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/bin/datos/Constante.class",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/src/datos/Constante.java",
-    "EJERCICIOS Y PROYECTOS/SEMANA09/bin/vista",
+    "Operador Diamante.md",
+    "listas mutables vs listas inmutables.md",
+    "JOptionPanel.md",
+    "JFrame.md",
+    "Funciones.md",
+    "Constructores y encapsulamiento en java..md",
+    "Tipos de acceso en java.md",
+    "Que pasa si una clase no cuenta con un constructor.md",
+    "Que es un estado de objeto.md",
+    "cual es la sintaxis para declarar una clase en java..md",
     "COLLECTION.md",
-    "Que es Static y para que sirve.md",
+    "Cual es la sintaxis de los metodos get y set.md",
     "BLOCK.md",
+    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo03.class",
+    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo3.class",
+    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo03.java",
+    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo02.class",
+    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo02.java",
+    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo01.class",
+    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo01.java",
+    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo1.java",
+    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo1.class",
+    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo3.java",
+    "Que es Static y para que sirve.md",
     "Diferencias entre clase abstracta e interface.md",
     "Implementación de una clase abstracta en java.md",
-    "JFrame.md",
-    "JOptionPanel.md",
     "Ejercicios básicos de constructores y encapsulamiento.md",
     "Mejoras de seguridad ejercicio 3 cuenta bancaria.md",
     "Mejoras.md",
     "Concatenaciones.md",
-    "Funciones.md",
-    "Constructores y encapsulamiento en java..md",
-    "Tipos de acceso en java.md",
     "Pasted image 20240324215825.png",
     "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
     "Void.md",
     "Que pasa si no me olvido el voild.md",
     "Un constructor se puede crear sin modificador de acceso..(pregunta).md",
-    "Cual es la sintaxis de los metodos get y set.md",
     "Pasted image 20240324100647.png",
-    "Que pasa si una clase no cuenta con un constructor.md",
-    "Que es un estado de objeto.md",
     "Que son las clases y objetos en java.md",
     "Que.md",
-    "Java/Que.md",
-    "Que_es_un_estado_de_objeto.md",
     "Pasted image 20240324084547.png"
   ]
 }
