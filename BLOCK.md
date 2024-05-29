@@ -42,3 +42,15 @@ public class Main {
 	}
 }
 ```
+
+
+```java
+import java.util.ArrayList;
+ArrayList lista = new ArrayList<>();
+
+```
+
+```java
+import javax.swing.JOptionPanel;
+JOptionPanel.showMessageDialog(null; "Se mostrara esta información");
+```

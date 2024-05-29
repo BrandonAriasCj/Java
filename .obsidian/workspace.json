@@ -225,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -325,8 +326,19 @@
   },
   "active": "151a6e20f5def75c",
   "lastOpenFiles": [
-    "Operador Diamante.md",
+    "EJERCICIOS Y PROYECTOS/Practica/bin/Vista/Vista.class",
+    "EJERCICIOS Y PROYECTOS/Practica/src/Vista/Vista.java",
+    "EJERCICIOS Y PROYECTOS/Practica/bin/Vista",
+    "EJERCICIOS Y PROYECTOS/Practica/src/Vista",
+    "EJERCICIOS Y PROYECTOS/Practica/bin/Datos",
+    "EJERCICIOS Y PROYECTOS/Practica/src/Datos",
+    "EJERCICIOS Y PROYECTOS/Practica/src",
+    "EJERCICIOS Y PROYECTOS/Practica/bin",
+    "EJERCICIOS Y PROYECTOS/Practica",
+    "BLOCK.md",
+    "COLLECTION.md",
     "listas mutables vs listas inmutables.md",
+    "Operador Diamante.md",
     "JOptionPanel.md",
     "JFrame.md",
     "Funciones.md",
@@ -335,19 +347,9 @@
     "Que pasa si una clase no cuenta con un constructor.md",
     "Que es un estado de objeto.md",
     "cual es la sintaxis para declarar una clase en java..md",
-    "COLLECTION.md",
     "Cual es la sintaxis de los metodos get y set.md",
-    "BLOCK.md",
     "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo03.class",
     "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo3.class",
-    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo03.java",
-    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo02.class",
-    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo02.java",
-    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo01.class",
-    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo01.java",
-    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo1.java",
-    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo1.class",
-    "EJERCICIOS Y PROYECTOS/semana11/src/vista/ejemplo3.java",
     "Que es Static y para que sirve.md",
     "Diferencias entre clase abstracta e interface.md",
     "Implementación de una clase abstracta en java.md",
@@ -362,7 +364,6 @@
     "Un constructor se puede crear sin modificador de acceso..(pregunta).md",
     "Pasted image 20240324100647.png",
     "Que son las clases y objetos en java.md",
-    "Que.md",
     "Pasted image 20240324084547.png"
   ]
 }

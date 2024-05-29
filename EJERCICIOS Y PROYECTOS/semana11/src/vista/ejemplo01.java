@@ -1,8 +1,16 @@
 package vista;
 import java.util.Scanner;
 import datos.mantenimiento;
+import javax.swing.JOptionPane;
+import java.util.ArrayList;
 public class ejemplo01 {
 	public static void main(String[] args) {
+		JOptionPane.showMessageDialog(null,"Se mostrara gaa");
+		ArrayList<String> lista = new ArrayList<>();
+		lista.add("primero");
+		lista.add("segundo");
+		lista.add("tercero");
+		System.out.println(lista);
 		mantenimiento m = new mantenimiento();
 		int cod;
 		String apel,nom,dir,dni;
