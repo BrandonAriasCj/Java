@@ -1,5 +1,7 @@
 package Vista;
 
+import java.time.LocalDate;
+
 public class Vista {
 
 	public static void main(String[] args) {
@@ -9,6 +11,9 @@ public class Vista {
 		boolean iguales2 = cadena1 == cadena2;
 		System.out.println(iguales1);
 		System.out.println(iguales2);
+		
+		LocalDate fechaActual = LocalDate.now();
+		System.out.println(fechaActual);
 	}
 
 }

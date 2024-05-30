@@ -8,195 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43ab46484daaf208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Un constructor se puede crear sin modificador de acceso..(pregunta).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c74eb99e865c6201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Que es un estado de objeto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c39614883a83610e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "459b6ae6829139d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Constructores y encapsulamiento en java..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "602ba7f415919728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tipos de acceso en java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dca7f00a58d8277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ejercicios básicos de constructores y encapsulamiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65f1e48e4f42da01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOptionPanel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be63e003156dfa12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JFrame.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b224df776a7572e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementación de una clase abstracta en java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c2e1b9ee9b4f0d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mejoras de seguridad ejercicio 3 cuenta bancaria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "636da41847cc686d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1958c71bb2be65ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Que es Static y para que sirve.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10130a2e03284415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diferencias entre clase abstracta e interface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fdd9dc8af7970fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOptionPanel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56ae6e7c4437d3e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operador Diamante.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "151a6e20f5def75c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "listas mutables vs listas inmutables.md",
+                "file": "COLLECTION.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fb164718d8a8563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operador AND bit a bit con &.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a40981d56ab3d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manejo de archivos con clase File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79c19675072be362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manejo del tiempo en java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "listas mutables vs listas inmutables.md",
+                "file": "Manejo del tiempo en java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "listas mutables vs listas inmutables.md",
+                "file": "Manejo del tiempo en java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "listas mutables vs listas inmutables.md"
+                "file": "Manejo del tiempo en java.md"
               }
             }
           }
@@ -324,20 +183,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "151a6e20f5def75c",
+  "active": "79c19675072be362",
   "lastOpenFiles": [
+    "Manejo de archivos con clase File.md",
+    "Manejo del tiempo en java.md",
+    "Operador AND bit a bit con &.md",
+    "COLLECTION.md",
+    "listas mutables vs listas inmutables.md",
+    "EJERCICIOS Y PROYECTOS/Practica/bin/Vista/ejemplo2.class",
+    "EJERCICIOS Y PROYECTOS/Practica/src/Vista/ejemplo2.java",
+    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo3.class",
+    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo2.class",
+    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo1.class",
     "EJERCICIOS Y PROYECTOS/Practica/bin/Vista/Vista.class",
     "EJERCICIOS Y PROYECTOS/Practica/src/Vista/Vista.java",
     "EJERCICIOS Y PROYECTOS/Practica/bin/Vista",
     "EJERCICIOS Y PROYECTOS/Practica/src/Vista",
     "EJERCICIOS Y PROYECTOS/Practica/bin/Datos",
-    "EJERCICIOS Y PROYECTOS/Practica/src/Datos",
-    "EJERCICIOS Y PROYECTOS/Practica/src",
-    "EJERCICIOS Y PROYECTOS/Practica/bin",
-    "EJERCICIOS Y PROYECTOS/Practica",
     "BLOCK.md",
-    "COLLECTION.md",
-    "listas mutables vs listas inmutables.md",
     "Operador Diamante.md",
     "JOptionPanel.md",
     "JFrame.md",
@@ -348,8 +211,6 @@
     "Que es un estado de objeto.md",
     "cual es la sintaxis para declarar una clase en java..md",
     "Cual es la sintaxis de los metodos get y set.md",
-    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo03.class",
-    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo3.class",
     "Que es Static y para que sirve.md",
     "Diferencias entre clase abstracta e interface.md",
     "Implementación de una clase abstracta en java.md",
@@ -361,9 +222,7 @@
     "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
     "Void.md",
     "Que pasa si no me olvido el voild.md",
-    "Un constructor se puede crear sin modificador de acceso..(pregunta).md",
     "Pasted image 20240324100647.png",
-    "Que son las clases y objetos en java.md",
     "Pasted image 20240324084547.png"
   ]
 }
