@@ -10,8 +10,12 @@ public class comienzaPor {
 		boolean segunda = cadena2.startsWith("hol");
 		System.out.println(primera);
 		System.out.println(segunda);
-		List<boolean> numeros = List.of(true, false, true);
-		System.out.println(numeros);
+		List<Boolean> valores = List.of(true, false, true);
+		System.out.println(valores);
+		ArrayList<String> lista = new ArrayList<>();
+		lista.add("primer string");
+		lista.add("segundo string");
+		System.out.println(lista);
 		
 	}
 
