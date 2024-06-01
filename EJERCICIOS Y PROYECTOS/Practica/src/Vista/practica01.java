@@ -8,6 +8,8 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JMenu;
+import javax.swing.JRadioButtonMenuItem;
+import javax.swing.JCheckBoxMenuItem;
 
 public class practica01 extends JFrame {
 
@@ -57,6 +59,26 @@ public class practica01 extends JFrame {
 		
 		JMenuItem mntmNewMenuItem_3 = new JMenuItem("Opcion04");
 		mnNewMenu.add(mntmNewMenuItem_3);
+		
+		JRadioButtonMenuItem rdbtnmntmNewRadioItem = new JRadioButtonMenuItem("Opcion a");
+		rdbtnmntmNewRadioItem.setBounds(101, 154, 133, 26);
+		contentPane.add(rdbtnmntmNewRadioItem);
+		
+		JRadioButtonMenuItem rdbtnmntmNewRadioItem_1 = new JRadioButtonMenuItem("Opcion b");
+		rdbtnmntmNewRadioItem_1.setBounds(101, 177, 133, 26);
+		contentPane.add(rdbtnmntmNewRadioItem_1);
+		
+		JRadioButtonMenuItem rdbtnmntmNewRadioItem_2 = new JRadioButtonMenuItem("Opcion c");
+		rdbtnmntmNewRadioItem_2.setBounds(101, 203, 133, 26);
+		contentPane.add(rdbtnmntmNewRadioItem_2);
+		
+		JCheckBoxMenuItem chckbxmntmNewCheckItem = new JCheckBoxMenuItem("fasdfsdf");
+		chckbxmntmNewCheckItem.setBounds(249, 177, 135, 26);
+		contentPane.add(chckbxmntmNewCheckItem);
+		
+		JCheckBoxMenuItem chckbxmntmNewCheckItem_1 = new JCheckBoxMenuItem("asdfasdf");
+		chckbxmntmNewCheckItem_1.setBounds(244, 203, 135, 26);
+		contentPane.add(chckbxmntmNewCheckItem_1);
 		
 
 	}

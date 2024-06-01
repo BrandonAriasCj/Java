@@ -90,9 +90,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f93d0aa4a817f091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files.copy(origen, destino, StandardCopyOption.REPLACE_EXISTING);.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff540acd41522712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de datos para list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Driver Manager.md",
+                "file": "Tipos de datos para list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Driver Manager.md",
+                "file": "Tipos de datos para list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Driver Manager.md"
+                "file": "Tipos de datos para list.md"
               }
             }
           }
@@ -219,10 +243,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4ba5c346c16314f",
+  "active": "ff540acd41522712",
   "lastOpenFiles": [
-    "Propertis.md",
+    "Files.copy(origen, destino, StandardCopyOption.REPLACE_EXISTING);.md",
+    "Tipos de datos para list.md",
+    "EJERCICIOS Y PROYECTOS/Practica/bin/Vista/comienzaPor.class",
+    "EJERCICIOS Y PROYECTOS/Practica/src/Vista/comienzaPor.java",
+    "Falta del tipo de retorno en métodos.md",
     "Driver Manager.md",
+    "Propertis.md",
     "Manejo de archivos con clase File.md",
     "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/vista/ejemplo02.class",
     "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/vista/ejemplo01.class",
@@ -232,8 +261,6 @@
     "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/src/vista/ejemplo01.java",
     "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/src/vista",
     "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/src/datos",
-    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/vista",
-    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/datos",
     "Manejo del tiempo en java.md",
     "Callable Statemend.md",
     "Untitled 1.md",
@@ -254,9 +281,6 @@
     "Que es Static y para que sirve.md",
     "Diferencias entre clase abstracta e interface.md",
     "Implementación de una clase abstracta en java.md",
-    "Ejercicios básicos de constructores y encapsulamiento.md",
-    "Mejoras de seguridad ejercicio 3 cuenta bancaria.md",
-    "Mejoras.md",
     "Pasted image 20240324215825.png",
     "Pasted image 20240324100647.png",
     "Pasted image 20240324084547.png"
