@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1721433c37b35688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manejo de archivos con clase File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc51a504bcf85d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propertis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4ba5c346c16314f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Driver Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manejo del tiempo en java.md",
+                "file": "Driver Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manejo del tiempo en java.md",
+                "file": "Driver Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manejo del tiempo en java.md"
+                "file": "Driver Manager.md"
               }
             }
           }
@@ -183,23 +219,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79c19675072be362",
+  "active": "f4ba5c346c16314f",
   "lastOpenFiles": [
+    "Propertis.md",
+    "Driver Manager.md",
     "Manejo de archivos con clase File.md",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/vista/ejemplo02.class",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/vista/ejemplo01.class",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/datos/Libreria.class",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/src/vista/ejemplo02.java",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/src/datos/Libreria.java",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/src/vista/ejemplo01.java",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/src/vista",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/src/datos",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/vista",
+    "EJERCICIOS Y PROYECTOS/SEMANA13-LAB/bin/datos",
     "Manejo del tiempo en java.md",
+    "Callable Statemend.md",
+    "Untitled 1.md",
     "Operador AND bit a bit con &.md",
     "COLLECTION.md",
     "listas mutables vs listas inmutables.md",
-    "EJERCICIOS Y PROYECTOS/Practica/bin/Vista/ejemplo2.class",
-    "EJERCICIOS Y PROYECTOS/Practica/src/Vista/ejemplo2.java",
-    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo3.class",
-    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo2.class",
-    "EJERCICIOS Y PROYECTOS/semana11/bin/vista/ejemplo1.class",
-    "EJERCICIOS Y PROYECTOS/Practica/bin/Vista/Vista.class",
-    "EJERCICIOS Y PROYECTOS/Practica/src/Vista/Vista.java",
-    "EJERCICIOS Y PROYECTOS/Practica/bin/Vista",
-    "EJERCICIOS Y PROYECTOS/Practica/src/Vista",
-    "EJERCICIOS Y PROYECTOS/Practica/bin/Datos",
     "BLOCK.md",
     "Operador Diamante.md",
     "JOptionPanel.md",
@@ -217,11 +257,7 @@
     "Ejercicios básicos de constructores y encapsulamiento.md",
     "Mejoras de seguridad ejercicio 3 cuenta bancaria.md",
     "Mejoras.md",
-    "Concatenaciones.md",
     "Pasted image 20240324215825.png",
-    "Es necesario usar constructores cuando se usa el encapsulamiento con get y set. (pregunta).md",
-    "Void.md",
-    "Que pasa si no me olvido el voild.md",
     "Pasted image 20240324100647.png",
     "Pasted image 20240324084547.png"
   ]

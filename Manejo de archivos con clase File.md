@@ -1,4 +1,4 @@
-La clase `File` en Java es parte del paquete `java.io` y se utiliza para trabajar con archivos y directorios. A continuación, te presento una guía sobre cómo usar la clase `File` para manejar archivos en Java:
+La clase +`File` en Java es parte del paquete `java.io` y se utiliza para trabajar con archivos y directorios. A continuación, te presento una guía sobre cómo usar la clase `File` para manejar archivos en Java:
 
 ### Importar la Clase File
 ```java
