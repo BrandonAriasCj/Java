@@ -15,7 +15,7 @@ public class mantenimiento extends conexion{
 			sen2.setDouble(5,lineaCredito);
 			sen2.setString(6,direccion);
 			sen2.setString(7,telefono);
-			sen2.executeUpdate();
+			sen2.execute();
 		}catch(SQLException e) {
 			System.out.println("ERROR0");
 		}
